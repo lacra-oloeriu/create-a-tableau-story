@@ -33,8 +33,10 @@ Hong Kong and Australia and Switezeland, as usual, occupy the top two positions.
 The 8 lowest-rated countries are: Venezuela , Iran, Belarus,Zimbabwe , Turkmenistan, Cuba , Afghanistan and Uzbekistan.
 
 # Links to published work
-- [tableau public ](https://public.tableau.com/profile/lacramioara#!/vizhome/create-a-tableau-story/FinancialFreedomInTheWorld "tableau public")
-- [my tweet](https://twitter.com/OloeriuL/status/1064755328275886081 "my tweet")
+- [tableau public story1](https://public.tableau.com/profile/lacramioara#!/vizhome/create-a-tableau-story/Story1 "tableau public story1")
+- [tableau public story2](https://public.tableau.com/profile/lacramioara#!/vizhome/FinancialFreadomInTheWorld/Story2 "tableau public story2")
+- [my tweet](https://twitter.com/OloeriuL/status/1064755328275886081 "my tweet story1")https://public.tableau.com/profile/lacramioara#!/vizhome/FinancialFreadomInTheWorld/Story2
+-[my tweet2](https://twitter.com/OloeriuL/status/1064851002128502791 "my tweet2")
 
 I shere my project in twitter and i colect a feedback from my Udacity teacher .
 He told me to change the project and bring the following improvements:
