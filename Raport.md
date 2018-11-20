@@ -35,8 +35,8 @@ The 8 lowest-rated countries are: Venezuela , Iran, Belarus,Zimbabwe , Turkmenis
 # Links to published work
 - [tableau public ](https://public.tableau.com/profile/lacramioara#!/vizhome/create-a-tableau-story/FinancialFreedomInTheWorld "tableau public")
 - [my tweet](https://twitter.com/OloeriuL/status/1064755328275886081 "my tweet")
+
 I shere my project in twitter and i colect a feedback from my Udacity teacher .
 He told me to change the project and bring the following improvements:
 -Awesome work on the visualizations, they are very interesting and the choice is mostly great but here what I think you need to enhance. The map is awesome, try next time try to add another plot and use the map as a filter. Here is a link using your workbook: https://public.tableau.com/profile/wafic#!/vizhome/FinancialFreedomInTheWorld/Dashboard2?publish=yes
-
 In conclusion you have very interesting story, but you need to do some fixes on couple of charts and please try to explore with more variables and more plots and also please make sure to use dashboards as the slides are all single plots. Last please add findings and summary in the caption section of each slide explaining the findings you have discovered in every slide.
