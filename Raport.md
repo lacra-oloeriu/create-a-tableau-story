@@ -14,3 +14,7 @@ Hong Kong and Australia and Switezeland, as usual, occupy the top two positions.
 
 # Lowest-rated countries
 The 8 lowest-rated countries are: Venezuela , Iran, Belarus,Zimbabwe , Turkmenistan, Cuba , Afghanistan and Uzbekistan.
+
+# Links to published work
+- [tableau public ](https://public.tableau.com/profile/lacramioara#!/vizhome/create-a-tableau-story/FinancialFreedomInTheWorld "tableau public")
+- [my tweet](https://twitter.com/OloeriuL/status/1064755328275886081 "my tweet")
